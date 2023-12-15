@@ -1,0 +1,84 @@
+Account Holder: Bruce Banner
+Account Number: 807035
+Balance: $ 327.89
+
+Account Holder: Carol Danvers
+Account Number: 895062
+Balance: $ 352.1
+
+Account Holder: Clint Barton
+Account Number: 547262
+Balance: $ 372.34
+
+Account Holder: Hope Pym
+Account Number: 723853
+Balance: $ 838.12
+
+Account Holder: James Buchanan
+Account Number: 707371
+Balance: $ 467.28
+
+Account Holder: James Rhodes
+Account Number: 447769
+Balance: $ 304.29
+
+Account Holder: Natasha Romanoff
+Account Number: 107877
+Balance: $ 924.31
+
+Account Holder: Nick Fury
+Account Number: 399246
+Balance: $ 910.0
+
+Account Holder: Peggy Carter
+Account Number: 543733
+Balance: $ 565.48
+
+Account Holder: Pepper Potts
+Account Number: 423461
+Balance: $ 517.4
+
+Account Holder: Peter Parker
+Account Number: 969134
+Balance: $ 450.98
+
+Account Holder: Peter Quill
+Account Number: 383983
+Balance: $ 609.03
+
+Account Holder: Sam Wilson
+Account Number: 989473
+Balance: $ 606.29
+
+Account Holder: Scott Lang
+Account Number: 969633
+Balance: $ 370.35
+
+Account Holder: Steven Rogers
+Account Number: 515298
+Balance: $ 376.45
+
+Account Holder: Steven Strange
+Account Number: 623276
+Balance: $ 823.21
+
+Account Holder: T Challa
+Account Number: 534382
+Balance: $ 996.54
+
+Account Holder: Thor Odinson
+Account Number: 808259
+Balance: $ 491.23
+
+Account Holder: Tony Stark
+Account Number: 953495
+Balance: $ 720.0
+
+Account Holder: Vineet Panchal
+Account Number: 843936
+Balance: $ 100.0
+
+Account Holder: Wanda Maximoff
+Account Number: 518298
+Balance: $ 300.0
+
